@@ -1,0 +1,1 @@
+const icon='Image by <a href="https://pixabay.com/users/roly96-17414152/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6578697">Rolando Ernesto Villavicencio Martínez</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6578697">Pixabay</a>'

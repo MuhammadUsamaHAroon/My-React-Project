@@ -1,0 +1,92 @@
+/* =============
+   STUDENT LOGIN
+   ============== */
+.loginStudentHeader{
+    text-align: center;
+    text-transform: capitalize;
+    color: royalblue;
+    background-color: transparent;
+    outline: none;
+    font-family:'Times New Roman', Times, serif
+}
+
+/*==============
+  COMPANY LOGIN 
+  ================*/
+.Comp_login_row{
+    border: solid none;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 60px;
+
+}
+.col{
+    border: solid none;
+}
+
+.loginCompHeader{
+    text-align: center;
+    text-transform: capitalize;
+    color: green;
+    background-color: transparent;
+    outline: none;
+    font-family:'Times New Roman', Times, serif
+}
+
+input{
+    padding: 15px;
+}
+.cardBody{
+    border: solid none;
+    /* margin-top: 15px; */
+}
+
+.emailInput{
+    margin-top: 30px;
+}
+.passInput{
+    margin-top: 30px;
+}
+
+.company_Login{
+    border: solid none;
+    justify-content: center;
+    margin-top: 32px;
+    /* margin-left: 225px; */
+}
+/*==============
+ COMPANY LOGIN 
+ =============*/
+/*=============
+   ADMIN LOGIN
+============== */
+
+
+
+
+
+.loginAdminHeader{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgba(255, 196, 0, 0.918);
+    background-color: transparent;
+    outline: none;
+    font-family:'Times New Roman', Times, serif
+}
+.admin_Login{
+    border: solid none;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.loginAdminHeader{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgba(255, 196, 0, 0.918);;;
+    background-color: transparent;
+    outline: none;
+    font-family:'Times New Roman', Times, serif
+}
+
+
+

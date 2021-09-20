@@ -1,0 +1,102 @@
+.col{
+    border: solid none;
+}
+.header{
+    border: solid none;
+    text-align: center;
+    background-color: rgb(255, 217, 0);
+    padding: 10px;
+    
+
+}
+.header>h1{
+    font-size: 55px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    
+}
+.main_Note{
+    border: solid none;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+.add-button>.add_btn{
+    /* margin-left: 24.1rem; */
+    border:solid whitesmoke;
+    border-radius:50px;
+    margin-top:15px;
+    padding: 17px;
+    box-shadow: 4px 4px 4px  whitesmoke;
+
+}
+.add-button>.add_btn:hover{
+    color: white;
+}
+.add-button{
+    padding: 15px;
+    
+}
+.noteComp{
+    border: solid none;
+}
+.NoteBox{
+    border: solid none;
+    width: 15%;
+}
+.Note{
+    border: solid none;
+    
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 60px;
+    margin-left: 25px;
+}
+.Note>h4{
+    padding: 10px;
+}
+.Note>p{
+    padding: 5px;
+}
+.delete-button{
+    border:solid none;
+    padding: 8px;
+    justify-content: center;
+
+
+}
+
+.delete-button>.Delete-btn{  
+    border: solid whitesmoke;
+    box-shadow: 4px 4px 4px whitesmoke;
+    border-radius: 50px;
+    padding: 17px;    
+}
+.delete-button>.Delete-btn:hover{
+    color: white;
+}
+
+
+
+.Footer{
+    border: solid rgb(255, 217, 0);
+    text-align: center;
+    height: 12vh;   
+    margin-top: 2rem;
+    background-color: rgb(255, 217, 0);
+}
+.Footer>h5{
+    margin-top: 30px;
+}
